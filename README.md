@@ -10,7 +10,7 @@
 ### CorrelationPlot.ipynb
   1. different way to calculate correlation
 ### Participant_plot.ipynb
-  2. each participant distribution in boxplot and range
+  1. each participant distribution in boxplot and range
 ### actogram.ipynb
 ### allmarkerdist.ipynb
   1. Load all participants information
